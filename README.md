@@ -12,7 +12,7 @@ This project was developed as part of the Elevate Labs Python Developer Internsh
 * **Memory Functionality:** Users can clear the current calculation at any time by typing 'C'.
 * **Exit Functionality:** A clear option to exit the application is provided.
 
-## How to Run the App
+## How to Run
 
 ### Prerequisites
 
